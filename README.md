@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Personal-project](To Be Added)
 
-- 🌱 I’m currently learning **Java , React**
+- 🌱 I’m currently learning **Java and React**
 
 - 📫 How to reach me **myworkemail@gmail.com**
 
